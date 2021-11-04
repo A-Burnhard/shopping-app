@@ -1,0 +1,27 @@
+VirtualBox COM Server 5.2.26 r128414 win.amd64 (Jan 25 2019 18:59:02) release log
+00:00:00.007991 main     Log opened 2020-02-21T12:56:27.217901600Z
+00:00:00.007991 main     Build Type: release
+00:00:00.007991 main     OS Product: Windows 10
+00:00:00.007991 main     OS Release: 10.0.18362
+00:00:00.007991 main     OS Service Pack: 
+00:00:00.155941 main     DMI Product Name: HP Laptop 15-ra0xx
+00:00:00.199924 main     DMI Product Version: Type1ProductConfigId
+00:00:00.199924 main     Host RAM: 4001MB (3.9GB) total, 1477MB available
+00:00:00.199924 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.199924 main     Process ID: 4244
+00:00:00.199924 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.211921          VirtualBox: object creation starts
+00:00:00.211921          Home directory: 'C:\Users\USER\.VirtualBox'
+00:00:00.211921          Installed Drivers:
+00:00:00.243910            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 5.2.26.28414)
+00:00:00.243910            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 5.2.26.28414)
+00:00:00.243910            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 5.2.26.28414)
+00:00:00.247908            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 5.2.26.28414)
+00:00:00.275895          Getting USB descriptor failed with error 31
+00:00:00.275895          Getting USB descriptor failed with error 31
+00:00:00.283891          USB: Unknown USB device detected (idVendor: 0x05c8, idProduct: 0x0233)
+00:00:00.283891          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb009)
+00:00:00.439836          HostDnsMonitorProxy::notify
+00:00:00.671748          SUPR0QueryVTCaps -> VERR_VMX_MSR_ALL_VMX_DISABLED
+00:00:00.675751          VD: VDInit finished with VINF_SUCCESS
+00:00:00.679749          VirtualBox: object created

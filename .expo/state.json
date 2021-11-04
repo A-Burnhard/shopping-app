@@ -1,0 +1,11 @@
+{
+  "PATH": "C:\\Python310\\Scripts\\;C:\\Python310\\;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\Users\\USER\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\USER\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm Community Edition 2021.1.1\\bin;;C:\\Users\\USER\\AppData\\Roaming\\npm",
+  "auth": {
+    "userId": "51a4d356-de51-4dae-a93a-ef04e98f20a9",
+    "username": "burnhard",
+    "currentConnection": "Username-Password-Authentication",
+    "sessionSecret": "{\"id\":\"b6f2dc63-9eed-4286-8c76-8210ce7b7056\",\"version\":1,\"expires_at\":1893456000000}"
+  },
+  "openDevToolsAtStartup": true,
+  "uuid": "2ac99b1e-460c-4c67-9642-df914d0aa3d7"
+}

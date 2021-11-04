@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+repositories/file\:_C\:_Users_USER_.eclipse_com.oracle.jmc_5.5.2_468853197_win32_win32_x86_64_configuration_org.eclipse.osgi_250_data_listener_1925729951/description=
+repositories/file\:_C\:_Users_USER_.eclipse_com.oracle.jmc_5.5.2_468853197_win32_win32_x86_64_configuration_org.eclipse.osgi_250_data_listener_1925729951/isSystem=true
+repositories/file\:_C\:_Users_USER_.eclipse_com.oracle.jmc_5.5.2_468853197_win32_win32_x86_64_configuration_org.eclipse.osgi_250_data_listener_1925729951/name=dropins
+repositories/file\:_C\:_Users_USER_.eclipse_com.oracle.jmc_5.5.2_468853197_win32_win32_x86_64_configuration_org.eclipse.osgi_250_data_listener_1925729951/provider=
+repositories/file\:_C\:_Users_USER_.eclipse_com.oracle.jmc_5.5.2_468853197_win32_win32_x86_64_configuration_org.eclipse.osgi_250_data_listener_1925729951/type=org.eclipse.equinox.p2.artifact.repository.simpleRepository
+repositories/file\:_C\:_Users_USER_.eclipse_com.oracle.jmc_5.5.2_468853197_win32_win32_x86_64_configuration_org.eclipse.osgi_250_data_listener_1925729951/uri=file\:/C\:/Users/USER/.eclipse/com.oracle.jmc_5.5.2_468853197_win32_win32_x86_64/configuration/org.eclipse.osgi/250/data/listener_1925729951/
+repositories/file\:_C\:_Users_USER_.eclipse_com.oracle.jmc_5.5.2_468853197_win32_win32_x86_64_configuration_org.eclipse.osgi_250_data_listener_1925729951/version=1
+repositories/http\:__download.oracle.com_technology_products_missioncontrol_updatesites_experimental_5.5.2_rcp/enabled=true
+repositories/http\:__download.oracle.com_technology_products_missioncontrol_updatesites_experimental_5.5.2_rcp/isSystem=false
+repositories/http\:__download.oracle.com_technology_products_missioncontrol_updatesites_experimental_5.5.2_rcp/uri=http\://download.oracle.com/technology/products/missioncontrol/updatesites/experimental/5.5.2/rcp/
